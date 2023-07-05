@@ -1,0 +1,14 @@
+.todoList li {
+  border: 1px solid turquoise;
+  padding: 10px;
+  margin: 10px;
+}
+
+.todoList {
+  list-style: none;
+}
+
+.todoList li:hover {
+  background-color: aquamarine;
+  cursor: pointer;
+}
